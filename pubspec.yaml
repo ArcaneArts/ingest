@@ -1,0 +1,14 @@
+name: ingest
+description: Get anything from the user quickly
+version: 1.0.1
+homepage: https://github.com/ArcaneArts/ingest
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+  flutter: ">=1.17.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
